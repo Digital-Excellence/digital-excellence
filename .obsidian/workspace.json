@@ -35,7 +35,7 @@
             "id": "179ab78720be0b5e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           },
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Excellence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Digital Excellence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Digital Excellence.md"
+              }
             }
           }
         ]
@@ -162,17 +166,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "179ab78720be0b5e",
+  "active": "5e5932dc44a80583",
   "lastOpenFiles": [
-    "Agile Mindset.md",
-    "Long Term Projects.md",
-    "Open Collab.md",
     "Docentprofessionalisering.md",
+    "Open Collab.md",
     "Kenniscentrum.md",
-    "Leven Lang Ontwikkelen.md",
     "Digital Excellence.md",
+    "Long Term Projects.md",
+    "Leven Lang Ontwikkelen.md",
+    "Agile Mindset.md",
+    "Complexity.md",
     "Cynefin Framework.md",
-    "complexity theory.md",
-    "Wicked Problem.md"
+    "complexity theory.md"
   ]
 }
