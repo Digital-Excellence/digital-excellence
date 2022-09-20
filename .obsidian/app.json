@@ -1,12 +1,17 @@
 {
   "showInlineTitle": false,
   "showFrontmatter": true,
-  "foldHeading": false,
-  "foldIndent": false,
+  "foldHeading": true,
+  "foldIndent": true,
   "attachmentFolderPath": "Files",
   "trashOption": "local",
   "livePreview": true,
   "communityPluginSortOrder": "download",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "files/templates/",
+    "daily/"
+  ],
+  "showUnsupportedFiles": true
 }

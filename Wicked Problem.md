@@ -1,10 +1,18 @@
-# Wicked Problem
+---
+Aliases: {Wicked Problems}
+---
+
+# Wicked Problems
 
 In planning and policy, a wicked problem is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to *an idea or problem that cannot be fixed, where there is no single solution to the problem*
 
 > The term 'wicked' denotes resistance to resolution, rather than evil. 
 
-Another definition is *"a problem whose social complexity means that it has no determinable stopping point"*. Moreover, because of [[Complexity|complex]] interdependencies, the effort to solve one aspect of a wicked problem may reveal or create other problems. Due to their complexity, wicked problems are often characterized by organized irresponsibility.
+Another definition is *"a problem whose social [[complexity]] means that it has no determinable stopping point"*. Moreover, because of [[Complexity|complex]] interdependencies, the effort to solve one aspect of a wicked problem may reveal or create other problems. Due to their complexity, wicked problems are often characterized by organized irresponsibility.
+
+## Properties
+
+![[Wicked-problems-flower.png]]
 
 ## Origin
 

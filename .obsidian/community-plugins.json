@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar",
+  "daily-activity",
+  "obsidian-rollover-daily-todos"
 ]

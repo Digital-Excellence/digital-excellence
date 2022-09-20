@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Kenniscentrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab673dd9511312af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Digital Excellence.md",
                 "mode": "source",
                 "source": false
@@ -30,27 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "179ab78720be0b5e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "98e1d524f0048e53",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "0.16.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,36 +103,8 @@
       {
         "id": "b3f09b8aa9220ed6",
         "type": "tabs",
+        "dimension": 26.804860614724802,
         "children": [
-          {
-            "id": "482b7b642b3b153a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Digital Excellence.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "11a161efd5b2cc97",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Digital Excellence.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "f1d92b4a2fe20b4d",
             "type": "leaf",
@@ -159,24 +125,57 @@
                 "file": "Digital Excellence.md"
               }
             }
+          },
+          {
+            "id": "7ef63612639dc57d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5dd4026ce2db6618",
+        "type": "tabs",
+        "dimension": 73.1951393852752,
+        "children": [
+          {
+            "id": "482b7b642b3b153a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Excellence.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
-  "active": "5e5932dc44a80583",
+  "active": "ab673dd9511312af",
   "lastOpenFiles": [
-    "Docentprofessionalisering.md",
-    "Open Collab.md",
+    "Wicked Problem.md",
     "Kenniscentrum.md",
+    "Open Collab.md",
     "Digital Excellence.md",
-    "Long Term Projects.md",
     "Leven Lang Ontwikkelen.md",
-    "Agile Mindset.md",
     "Complexity.md",
-    "Cynefin Framework.md",
-    "complexity theory.md"
+    "files/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
+    "Docentprofessionalisering.md",
+    "daily/2022-09-20.md",
+    "files/templates/daily-template.md"
   ]
 }
