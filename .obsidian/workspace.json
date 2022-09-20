@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "275fd021bddf6a95",
+    "type": "split",
+    "children": [
+      {
+        "id": "7542deed5185074e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b5adb033eb70d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cynefin Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fc728ae9abfb3f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Long Term Projects.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e1d524f0048e53",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "0.16.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "242b079c9dcb6165",
+    "type": "split",
+    "children": [
+      {
+        "id": "92ae38b27e84b3cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5932dc44a80583",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e20d3497cee37acf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3b04f6cb65c1f94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a94ce8a9d08ffd4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3f09b8aa9220ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "482b7b642b3b153a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Long Term Projects.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "11a161efd5b2cc97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Long Term Projects.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1d92b4a2fe20b4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89d6bf9c2174eadd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Long Term Projects.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2fc728ae9abfb3f9",
+  "lastOpenFiles": [
+    "Digital Excellence.md",
+    "Agile Mindset.md",
+    "Dave Snowden.md",
+    "Cynefin Framework.md",
+    "files/IA Brochure Fontys For Society Strategie 2025_200181_IA.pdf",
+    "Kenniscentrum.md",
+    "Open Collab.md",
+    "Long Term Projects.md",
+    "files/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
+    "files/220825 Fontys Workshop Slides.pdf"
+  ]
+}

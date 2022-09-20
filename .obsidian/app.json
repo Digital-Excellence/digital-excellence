@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "showFrontmatter": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "attachmentFolderPath": "Files",
+  "trashOption": "local",
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}
