@@ -9,6 +9,8 @@ Speerpunten advies 2023
 - [[Agile Mindset]]
 - [[Open Collab]]
 
+[[Leven Lang Ontwikkelen]]
+
 ## Documents
 [[IA Brochure Fontys For Society Strategie 2025_200181_IA.pdf|Fonys Strategie]]
 [[Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf|Meta analyse maatschappelijke opgaven relevant voor het HBO]]
