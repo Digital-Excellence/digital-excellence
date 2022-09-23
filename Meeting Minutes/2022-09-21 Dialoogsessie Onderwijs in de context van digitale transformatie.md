@@ -1,5 +1,6 @@
 # Onderwijs in de context van digitale transformatie
-Dialoogsessie op initiatief van de zone Human Capital van het Versnellingsplan. 
+
+2022-09-21: Dialoogsessie op initiatief van de zone Human Capital van het Versnellingsplan. 
 
 >
 >Hoe geef je de digitale transformatie structureel een verantwoorde plaats in het onderwijs?Hoe bereiden we studenten goed voor deze context?

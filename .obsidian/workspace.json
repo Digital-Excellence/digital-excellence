@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38d5775e7aada864",
+            "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professionals voor morgen.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,16 +92,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Professionals voor morgen.md"
-              }
-            }
-          },
-          {
-            "id": "7ef63612639dc57d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -115,14 +101,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professionals voor morgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5dd4026ce2db6618",
@@ -135,10 +120,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professionals voor morgen.md",
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
@@ -187,17 +171,17 @@
       }
     ]
   },
-  "active": "38d5775e7aada864",
+  "active": "5e5932dc44a80583",
   "lastOpenFiles": [
+    "Praktijkgericht Onderzoek.md",
+    "Untitled.md",
+    "Meeting Minutes/2022-09-21 Dialoogsessie Onderwijs in de context van digitale transformatie.md",
+    "Vereniging Hogescholen.md",
+    "Files/templates/_t.frontmatter.aliases.md",
     "Files/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
-    "Leven Lang Ontwikkelen.md",
-    "Long Term Projects.md",
+    "Dave Snowden.md",
+    "Files/220825 Fontys Workshop Slides.pdf",
     "Maatschappelijke opgaven HBO.md",
-    "Professionals voor morgen.md",
-    "Files/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
-    "Files/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf",
-    "Open Collab.md",
-    "Wicked Problem.md",
-    "Leerlandschap.md"
+    "Professionals voor morgen.md"
   ]
 }

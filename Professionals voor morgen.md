@@ -3,6 +3,12 @@ Aliases: {Strategische agenda Vereniging Hogescholen 2019-2023}
 ---
 # Professionals voor morgen
 
+Key points uit: Strategische agenda [[Vereniging Hogescholen]] 2019-2023
+
+## Key points
+
+
+## Excerpts
 
 
 

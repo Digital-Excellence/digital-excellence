@@ -1,14 +1,14 @@
 {
   "command_timeout": 5,
-  "templates_folder": "files/templates",
+  "templates_folder": "Files/templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
