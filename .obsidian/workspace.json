@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maatschappelijke opgaven HBO.md",
-                "mode": "preview",
+                "file": "Professionals voor morgen.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maatschappelijke opgaven HBO.md"
+                "file": "Professionals voor morgen.md"
               }
             }
           },
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maatschappelijke opgaven HBO.md",
+                "file": "Professionals voor morgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maatschappelijke opgaven HBO.md",
+                "file": "Professionals voor morgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,17 +152,52 @@
     "direction": "horizontal",
     "width": 271.5
   },
+  "floating": {
+    "id": "02dd2e73fad3ec20",
+    "type": "floating",
+    "children": [
+      {
+        "id": "96052baadefe28c3",
+        "type": "window",
+        "children": [
+          {
+            "id": "0706a4c32cb341fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49440138c09c5ca2",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Files/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 0,
+        "width": 1144,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "38d5775e7aada864",
   "lastOpenFiles": [
-    "Files/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf",
+    "Files/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
+    "Leven Lang Ontwikkelen.md",
+    "Long Term Projects.md",
     "Maatschappelijke opgaven HBO.md",
+    "Professionals voor morgen.md",
+    "Files/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
+    "Files/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf",
     "Open Collab.md",
     "Wicked Problem.md",
-    "Leven Lang Ontwikkelen.md",
-    "Leerlandschap.md",
-    "Dave Snowden.md",
-    "Complexity.md",
-    "Agile Mindset.md",
-    "Docentprofessionalisering.md"
+    "Leerlandschap.md"
   ]
 }
