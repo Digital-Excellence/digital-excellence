@@ -8,4 +8,4 @@ Nederland staat voor grote maatschappelijke opgaven, zoals vraagstukken rond (di
 De co-creatie tussen onderwijs, onderzoek en de beroepspraktijk is kenmerkend voor het praktijkgericht onderzoek, onder leiding van lectoren. Die samenwerking betreft zowel de vraagstelling, de uitvoering als de toepassingen van de resultaten in de praktijk en het onderwijs. Om dat te kunnen realiseren vindt praktijkgericht onderzoek vrijwel altijd plaats in netwerken. Het is vaak kortcyclisch zodat het aansluit bij de behoeften van de praktijk. Praktijkgericht onderzoek is daarmee schakel tussen fundamenteel onderzoek en onze samenleving.
 
 ---
-Bron: VH - [Praktijk en onderzoek](https://www.vereniginghogescholen.nl/themas/praktijk-en-onderzoek)
+Bron: [[Vereniging Hogescholen|VH]] - [Praktijk en onderzoek](https://www.vereniginghogescholen.nl/themas/praktijk-en-onderzoek)

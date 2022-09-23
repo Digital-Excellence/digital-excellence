@@ -1,5 +1,5 @@
 ---
-Aliases: {}
+Aliases: {VH}
 ---
 # Vereniging Hogescholen
 

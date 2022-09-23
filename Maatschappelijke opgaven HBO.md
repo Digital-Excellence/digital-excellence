@@ -1,4 +1,5 @@
 # Maatschappelijke opgaven HBO
+#analyse
 
 Key points uit Berenschot rapport 2021 i.o. [[Vereniging Hogescholen]]: Meta Analyse maatschappelijke opgaven relevant voor het HBO.
 

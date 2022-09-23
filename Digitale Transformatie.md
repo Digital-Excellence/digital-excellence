@@ -6,4 +6,7 @@ Aliases: {}
 
 Overzichtspagina met inzichten en opvatting over de digital transformatie.
 
-![[Dialoogsessie Onderwijs in de context van digitale transformatie#Digitale Transformatie#]]
+Rolf van Haaren bij de [[Dialoogsessie Onderwijs in de context van digitale transformatie|dialoogsessie met Versnellingsplan]]:
+
+>*Door data gedreven nieuwe business models ontwikkelen. Bronbestand staat centraal. In tegenstelling tot automatisering van bestaande processen (digitalisatie; eerste transformatiegolf).*
+

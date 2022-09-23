@@ -11,21 +11,19 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Meeting Minutes/Dialoogsessie Onderwijs in de context van digitale transformatie.md",
-                "mode": "preview",
-                "source": true
+                "file": "File/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf"
               }
             }
           },
           {
-            "id": "84015b9e88b56cc6",
+            "id": "d83cb853f425b46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complexity.md",
+                "file": "Professionals voor morgen.md",
                 "mode": "preview",
                 "source": true
               }
@@ -110,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complexity.md"
+                "file": "Professionals voor morgen.md"
               }
             }
           },
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complexity.md",
+                "file": "Professionals voor morgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complexity.md",
+                "file": "Professionals voor morgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -157,17 +155,52 @@
     "direction": "horizontal",
     "width": 271.5
   },
-  "active": "84015b9e88b56cc6",
+  "floating": {
+    "id": "1b450fa5aa9f98f2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "acfeea8a00bd8478",
+        "type": "window",
+        "children": [
+          {
+            "id": "d86c0b6535db4019",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5b81f48a386e29db",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 0,
+        "width": 1144,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d83cb853f425b46a",
   "lastOpenFiles": [
-    "Agile Mindset.md",
-    "Digitale Transformatie.md",
-    "Meeting Minutes/Dialoogsessie Onderwijs in de context van digitale transformatie.md",
-    "Versnellingsplan.md",
-    "Dave Snowden.md",
+    "Praktijkgericht Onderzoek.md",
+    "Wendbaar en Weerbaar.md",
+    "Professionals voor morgen.md",
+    "File/Template/_t.headings.key-points.md",
+    "File/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf",
+    "Vereniging Hogescholen.md",
     "Cynefin Framework.md",
-    "Complexity.md",
-    "Digital Excellence.md",
-    "Leven Lang Ontwikkelen.md",
-    "Docentprofessionalisering.md"
+    "Maatschappelijke opgaven HBO.md",
+    "Meeting Minutes/Dialoogsessie Onderwijs in de context van digitale transformatie.md",
+    "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
   ]
 }

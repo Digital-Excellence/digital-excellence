@@ -31,7 +31,7 @@ Rolf en Annemarie?
 	- Open leermaterialen (gebruiken we bij OvP Open)
 - 
 ### Ontwerpkader onderwijsontwerp
-In de context van de digitale transformatie
+In de context van de [[digitale transformatie]]
 
 - Spinnenweb model Van den Akker
 - Transitiepaden
