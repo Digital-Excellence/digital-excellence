@@ -1,6 +1,6 @@
 # Kenniscentrum
 
-Een kenniscentrum is een interdisciplinaire domein/instituut overstijgende organisatie die zich voortdurend dynamisch vormt rondom een [[Wicked Problem]] komend vanuit de samenleving. 
+Een kenniscentrum is een interdisciplinaire domein/instituut overstijgende netwerkorganisatie die zich voortdurend dynamisch vormt rondom een [[Wicked Problem]] komend vanuit de samenleving. 
 
 Een dergelijk samenwerkingsverband, bijvoorbeeld rondom de energietransitie, kan bestaan uit:
 
