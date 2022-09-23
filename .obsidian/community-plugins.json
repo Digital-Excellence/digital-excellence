@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

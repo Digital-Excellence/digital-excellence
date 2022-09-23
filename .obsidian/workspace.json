@@ -11,11 +11,28 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meeting Minutes/Dialoogsessie Onderwijs in de context van digitale transformatie.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "84015b9e88b56cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complexity.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Complexity.md"
+              }
             }
           },
           {
@@ -101,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -136,52 +157,17 @@
     "direction": "horizontal",
     "width": 271.5
   },
-  "floating": {
-    "id": "02dd2e73fad3ec20",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96052baadefe28c3",
-        "type": "window",
-        "children": [
-          {
-            "id": "0706a4c32cb341fa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49440138c09c5ca2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Files/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 0,
-        "width": 1144,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5e5932dc44a80583",
+  "active": "84015b9e88b56cc6",
   "lastOpenFiles": [
-    "Praktijkgericht Onderzoek.md",
-    "Untitled.md",
-    "Meeting Minutes/2022-09-21 Dialoogsessie Onderwijs in de context van digitale transformatie.md",
-    "Vereniging Hogescholen.md",
-    "Files/templates/_t.frontmatter.aliases.md",
-    "Files/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
+    "Agile Mindset.md",
+    "Digitale Transformatie.md",
+    "Meeting Minutes/Dialoogsessie Onderwijs in de context van digitale transformatie.md",
+    "Versnellingsplan.md",
     "Dave Snowden.md",
-    "Files/220825 Fontys Workshop Slides.pdf",
-    "Maatschappelijke opgaven HBO.md",
-    "Professionals voor morgen.md"
+    "Cynefin Framework.md",
+    "Complexity.md",
+    "Digital Excellence.md",
+    "Leven Lang Ontwikkelen.md",
+    "Docentprofessionalisering.md"
   ]
 }

@@ -1,3 +1,7 @@
+---
+Aliases: {}
+---
+
 # Complexity
 
 [[Cynefin Framework]]
