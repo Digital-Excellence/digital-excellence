@@ -27,7 +27,7 @@
   "minimalStatus": true,
   "focusMode": false,
   "underlineInternal": false,
-  "underlineExternal": true,
+  "underlineExternal": false,
   "useSystemTheme": false,
   "folding": true,
   "lineNumbers": false,
