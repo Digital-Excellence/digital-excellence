@@ -5,7 +5,7 @@
   "foldIndent": true,
   "attachmentFolderPath": "Files",
   "trashOption": "local",
-  "livePreview": true,
+  "livePreview": false,
   "communityPluginSortOrder": "download",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
@@ -13,5 +13,6 @@
     "files/templates/",
     "daily/"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
 }

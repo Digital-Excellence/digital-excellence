@@ -8,6 +8,8 @@ Een dergelijk samenwerkingsverband, bijvoorbeeld rondom de energietransitie, kan
 	- lector
 	- onderzoeker
 	- PHD kandidaat
+- educatie
+	- 
 - hub
 	- innovation
 	- CoP, CoE

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7542deed5185074e",
+        "id": "5510c2195ec7d9ed",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc728ae9abfb3f9",
+            "id": "38d5775e7aada864",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kenniscentrum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab673dd9511312af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Digital Excellence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e61e6164b0e17f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kenniscentrum.md",
+                "file": "Maatschappelijke opgaven HBO.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital Excellence.md"
+                "file": "Maatschappelijke opgaven HBO.md"
               }
             }
           },
@@ -132,6 +107,18 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "644914f88471d9be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maatschappelijke opgaven HBO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -148,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Excellence.md",
+                "file": "Maatschappelijke opgaven HBO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +152,17 @@
     "direction": "horizontal",
     "width": 271.5
   },
-  "active": "ab673dd9511312af",
+  "active": "38d5775e7aada864",
   "lastOpenFiles": [
-    "Wicked Problem.md",
-    "Kenniscentrum.md",
+    "Files/hbo2025WendbaarWeerbaar_Strategische_visie_VerenigingHogescholen.pdf",
+    "Maatschappelijke opgaven HBO.md",
     "Open Collab.md",
-    "Digital Excellence.md",
+    "Wicked Problem.md",
     "Leven Lang Ontwikkelen.md",
+    "Leerlandschap.md",
+    "Dave Snowden.md",
     "Complexity.md",
-    "files/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
-    "Docentprofessionalisering.md",
-    "daily/2022-09-20.md",
-    "files/templates/daily-template.md"
+    "Agile Mindset.md",
+    "Docentprofessionalisering.md"
   ]
 }
