@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wicked Problem.md"
+                "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wicked Problem.md",
+                "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wicked Problem.md",
+                "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -202,8 +202,9 @@
       }
     ]
   },
-  "active": "d83cb853f425b46a",
+  "active": "5b81f48a386e29db",
   "lastOpenFiles": [
+    "Wicked Problem.md",
     "Professionals voor morgen.md",
     "Maatschappelijke opgaven HBO.md",
     "Sustainable Development Goals.md",
@@ -212,7 +213,6 @@
     "Complexity.md",
     "Cynefin Framework.md",
     "Dave Snowden.md",
-    "Digitale Transformatie.md",
-    "Leven Lang Ontwikkelen.md"
+    "Digitale Transformatie.md"
   ]
 }
