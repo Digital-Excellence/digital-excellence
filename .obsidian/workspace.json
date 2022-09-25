@@ -11,8 +11,12 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Emancipatiefunctie HBO.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Emancipatiefunctie HBO.md"
+              }
             }
           },
           {
@@ -102,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Emancipatiefunctie HBO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Emancipatiefunctie HBO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -139,15 +146,15 @@
   },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
-    "Long Term Projects.md",
-    "Digital Excellence.md",
-    "Project/DeX advies 2023/000 Advies.md",
-    "Sustainable Development Goals.md",
+    "Curriculaire Spinnenweb.md",
+    "Agile Mindset.md",
+    "Complexity.md",
+    "Emancipatiefunctie HBO.md",
     "Professionals voor morgen.md",
-    "Persoonsvorming.md",
-    "Leven Lang Ontwikkelen.md",
-    "Docentprofessionalisering.md",
+    "Sustainable Development Goals.md",
     "Digitale Transformatie.md",
-    "Praktijkgericht Onderzoek.md"
+    "Docentprofessionalisering.md",
+    "Leven Lang Ontwikkelen.md",
+    "Persoonsvorming.md"
   ]
 }

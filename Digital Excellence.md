@@ -2,7 +2,7 @@
 Aliases: {DEX}
 ---
 
-# Digital Excellence 
+# Digital Excellence
 
 Speerpunten advies 2023
 - [[Long Term Projects]]

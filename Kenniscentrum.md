@@ -4,6 +4,7 @@ Aliases: {CoE, Centres of Expertise, Centre of Expertise, Kenniscentra}
 
 
 # Kenniscentrum
+#concept
 
 Een kenniscentrum (Centre of Expertise) is een interdisciplinaire domein/instituut overstijgende netwerkorganisatie die zich dynamisch vormt rondom een [[Wicked Problem]] gericht op het verbeteren / 'oplossen' van grote maatschappelijke uitdagingen.
 

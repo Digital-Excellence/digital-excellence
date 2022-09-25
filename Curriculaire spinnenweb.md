@@ -2,7 +2,8 @@
 Aliases: {}
 ---
 
-# Curriculaire spinnenweb
+# Curriculaire Spinnenweb Model
+#model
 
 De kern van een leerplan wordt doorgaans door de doelen en inhouden van het leren bepaald. Veranderingen in die kern vragen meestal ook om wijzigingen in andere leerplanonderdelen. Een verhelderende manier om dat te visualiseren is het zogenaamde curriculaire spinnenweb (Van den Akker, 2003).
 

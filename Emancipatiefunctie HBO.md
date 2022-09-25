@@ -10,4 +10,6 @@ Er zijn weinig onderwerpen waar de agenda van de overheid en de hbo-sector zo in
 
 Hier ligt voor hogescholen een grote maatschappelijke opdracht. Om de samenwerking mbo – hbo te versterken, ontwikkelen hogescholen vele initiatieven. In veel regio’s zijn er structurele samenwerkingsverbanden tussen ROC ’s en hogescholen en ook de ontwikkeling van de doorstroomkeuzedelen in het mbo, van loopbaantrajecten, [[praktijkgericht onderzoek]] en de verbreding van AD-programma’s geven een nieuwe impuls aan de samenwerking.
 
+---
+
 Bron: [[Vereniging Hogescholen|VH]] - https://www.vereniginghogescholen.nl/meer_differentiatie_en_flexibiliteit

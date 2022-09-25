@@ -2,7 +2,7 @@
 Aliases: {Cynefin}
 ---
 # Cynefin framework
-#tool
+#model
 
 The Cynefin framework  is a conceptual framework used to aid decision-making. Created in 1999 by [[Dave Snowden]] when he worked for IBM Global Services, it has been described as a "sense-making device". Cynefin is a Welsh word for habitat.
 

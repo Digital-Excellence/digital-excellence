@@ -3,6 +3,7 @@ Aliases: {Wicked Problems}
 ---
 
 # Wicked Problem
+#concept
 
 In planning and policy, a wicked problem is a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize. It refers to *an idea or problem that cannot be fixed, where there is no single solution to the problem*
 
