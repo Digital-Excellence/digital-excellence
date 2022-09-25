@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:People",
       "color": {
         "a": 1,
         "rgb": 5419488

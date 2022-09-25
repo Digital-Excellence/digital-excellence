@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "BOK01-WS-2022": {
+    "BOKL01": {
       "main": {
         "id": "275fd021bddf6a95",
         "type": "split",
@@ -138,8 +138,43 @@
         "direction": "horizontal",
         "width": 271.5
       },
+      "floating": {
+        "id": "be9dbfc707ebc7cd",
+        "type": "floating",
+        "children": [
+          {
+            "id": "73a7036b82a4dba6",
+            "type": "window",
+            "children": [
+              {
+                "id": "66e970164ba1797f",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "15b1d30f019f44d4",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 1,
+            "y": 0,
+            "width": 1144,
+            "height": 929,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
       "active": "5d8a1c90f0c99184"
     }
   },
-  "active": "BOK01-WS-2022"
+  "active": "BOKL01"
 }
