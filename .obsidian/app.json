@@ -10,8 +10,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "files/templates/",
-    "daily/"
+    "File/Template/",
+    "Project/"
   ],
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview"

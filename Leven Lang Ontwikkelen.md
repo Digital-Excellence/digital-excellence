@@ -1,3 +1,8 @@
+---
+Aliases: {LLO}
+---
+
+
 # Leven Lang Ontwikkelen
 
 1. **Toekomst van werk**
