@@ -9,24 +9,19 @@ Strategische agenda 2019-2023 van de [[Vereniging Hogescholen]].
 ## Key points
 
 ### Ieder talent verzilveren
-
-Studiesucces.
+Met het centraal stellen van studentsucces geven hogescholen uitdrukking aan het belang van de bredere [[persoonsvorming]] van studenten, die naast de kwalificatie voor een beroep wezenlijk onderdeel uitmaakt van hun voorbereiding op de toekomst.
 
 ### Inspelen op de arbeidsmarkt
-
-Emancipatiefunctie HO.
+Hogescholen nemen hun verantwoordelijkheid om goed in te spelen op ontwikkelingen op de (inter)nationale arbeidsmarkt (op korte- en lange termijn), juist ook om de [[Emancipatiefunctie HBO|emancipatiefunctie]] van het hoger beroepsonderwijs te borgen, daarbij rekening houdend met de keuzevrijheid van studenten. [[Leven Lang Ontwikkelen]]. Flexibilisering.
 
 ### Werken aan maatschappelijke vraagstukken
-
-[[Wicked Problem]]
+Kennisinstellingen worden steeds belangrijker bij de aanpak van [[Wicked Problem|maatschappelijke problemen]] op regionaal, landelijk en Europees niveau. Denk hierbij bijvoorbeeld aan de [[Sustainable Development Goals]]. Hogescholen en hun [[Kenniscentrum|Centres of Expertise]] zijn bij uitstek geëquipeerd om met [[praktijkgericht onderzoek]] bij te dragen aan de aanpak van deze vraagstukken.
 
 ### Doorontwikkeling hoger beroepsonderwijs in het stelsel
-
-Derde cyclus. HBO Master.
+Om het gelijkwaardige karakter van het hbo in het ho-stelsel te benadrukken is het noodzakelijk dat hogescholen hun masterportfolio kunnen uitbreiden en een derde cyclus krijgen.
 
 ### De hogeschool in continue verbinding met de omgeving
-
-Hogescholen zullen zich de komende periode verder omvormen tot *[[Kenniscentrum|krachtige netwerkorganisaties]]*. We voelen ons als sector gezamenlijk verantwoordelijk voor het *aanbieden van opleidingen en onderzoek dat zo veel mogelijk voorziet in de maatschappelijke behoefte in alle regio’s*. Daarbij versterken en intensiveren hogescholen de horizontale dialoog met hun (regionale) stakeholders.
+Hogescholen zullen zich de komende periode verder omvormen tot [[Kenniscentrum|krachtige netwerkorganisaties]]. We voelen ons als sector gezamenlijk verantwoordelijk voor het *aanbieden van opleidingen en onderzoek dat zo veel mogelijk voorziet in de maatschappelijke behoefte in alle regio’s*. Daarbij versterken en intensiveren hogescholen de horizontale dialoog met hun (regionale) stakeholders.
 
 
 ## Excerpts

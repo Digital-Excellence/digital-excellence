@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:People",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:Projects",
+      "query": "path:\"Project\"",
       "color": {
         "a": 1,
         "rgb": 14701233
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0000000000000018,
+  "scale": 0.7132754626224432,
   "close": true
 }

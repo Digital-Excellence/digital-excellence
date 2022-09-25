@@ -1,0 +1,68 @@
+
+.cm-underline, a.external-link, a.internal-link {
+	text-decoration: none !important;
+	color: #24AFC2
+}
+
+
+
+/* Change header size in Edit mode */
+.cm-header-1 {
+  font-size: 32px;
+}
+  
+.cm-header-2 {
+  font-size: 28px;
+  color: #F2A71B;
+}
+  
+.cm-header-3 {
+  font-weight: 600;
+  font-size: 21px;
+  color: #BFB78F;
+  margin-bottom: -1px;
+  margin-top: 28px;
+}
+  
+.cm-header-4 {
+  font-size: 18px;
+}
+  
+.cm-header-5 {
+  font-size: 16px;
+}
+  
+.cm-header-6 {
+  font-size: 13px;
+}
+
+/* Change header size in Preview mode */
+.markdown-preview-view h1 {
+  font-size: 36px;
+}
+  
+.markdown-preview-view h2 {
+  font-size: 32px;
+  color: #F2A71B;
+}
+  
+.markdown-preview-view h3 {
+  font-weight: 600;
+  font-size: 21px;
+  color: #BFB78F;
+  margin-bottom: -1px;
+  margin-top: 28px;
+}
+  
+.markdown-preview-view h4 {
+  font-size: 18px;
+}
+  
+.markdown-preview-view h5 {
+  font-size: 16px;
+}
+  
+.markdown-preview-view h6 {
+  font-size: 13px;
+  font-weight: bold;
+}

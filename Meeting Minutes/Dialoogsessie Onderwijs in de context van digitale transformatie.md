@@ -7,8 +7,8 @@
 >- Hoe bereiden we studenten goed voor deze context?
 
 Aanwezigen:
-- Rolf van Haaren
-- Annemarie van de Broek (sessie leider)
+- [[Rolf van Haaren]]
+- [[Annemarie van de Broek ]](sessie leider)
 - Stefan Groenedal
 - Koen Janmaat - Zone human capital
 - Lonneke Brands
@@ -33,6 +33,6 @@ Rolf en Annemarie?
 ### Ontwerpkader onderwijsontwerp
 In de context van de [[digitale transformatie]]
 
-- Spinnenweb model Van den Akker
+- [[Curriculaire spinnenweb]] model Van den Akker
 - Transitiepaden
 - 
