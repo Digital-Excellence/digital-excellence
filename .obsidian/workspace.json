@@ -11,12 +11,8 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Professionals voor morgen.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -96,9 +92,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Professionals voor morgen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -107,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professionals voor morgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professionals voor morgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -144,52 +136,17 @@
     "direction": "horizontal",
     "width": 271.5
   },
-  "floating": {
-    "id": "be9dbfc707ebc7cd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "73a7036b82a4dba6",
-        "type": "window",
-        "children": [
-          {
-            "id": "66e970164ba1797f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "15b1d30f019f44d4",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1,
-        "y": 0,
-        "width": 1144,
-        "height": 929,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
-    "Maatschappelijke opgaven HBO.md",
-    "Professionals voor morgen.md",
     "Praktijkgericht Onderzoek.md",
-    "Kenniscentrum.md",
-    "Digital Excellence.md",
-    "Emancipatiefunctie HBO.md",
-    "Persoonsvorming.md",
-    "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
-    "conflict-files-obsidian-git.md",
-    "Project/DeX advies 2023/000 Advies.md"
+    "Professionals voor morgen.md",
+    "Sustainable Development Goals.md",
+    "Vereniging Hogescholen.md",
+    "Versnellingsplan.md",
+    "Wendbaar en Weerbaar.md",
+    "Wicked Problem.md",
+    "Agile Mindset.md",
+    "Complexity.md",
+    "Curriculaire spinnenweb.md"
   ]
 }

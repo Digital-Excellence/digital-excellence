@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "path:Projects",
+      "query": "path:\"Project\"",
       "color": {
         "a": 1,
         "rgb": 14701233
