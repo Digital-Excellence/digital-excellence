@@ -6,9 +6,9 @@ Aliases: {SDGs}
 
 The Division for Sustainable Development Goals (DSDG) in the United Nations Department of Economic and Social Affairs (UNDESA) acts as the Secretariat for the SDGs, providing substantive support and capacity-building for the goals and their related thematic issues, including water, energy, climate, oceans, urbanization, transport, science and technology, the Global Sustainable Development Report (GSDR), partnerships and Small Island Developing States. DSDG plays a key role in the evaluation of UN systemwide implementation of the 2030 Agenda and on advocacy and outreach activities relating to the SDGs.
 
-## The Goals
+![[global-goals.png]]
 
-https://sdgs.un.org/goals
+## The Goals
 
 1. End poverty in all its forms everywhere
 2. End hunger, achieve food security and improved nutrition and promote sustainable agriculture
@@ -28,7 +28,6 @@ https://sdgs.un.org/goals
 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels
 17. Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
-![[global-goals.png]]
 
 ---
 Bron: https://sdgs.un.org/

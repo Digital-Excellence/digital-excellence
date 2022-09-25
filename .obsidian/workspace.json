@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,15 +139,15 @@
   },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
-    "Praktijkgericht Onderzoek.md",
-    "Professionals voor morgen.md",
+    "Long Term Projects.md",
+    "Digital Excellence.md",
+    "Project/DeX advies 2023/000 Advies.md",
     "Sustainable Development Goals.md",
-    "Vereniging Hogescholen.md",
-    "Versnellingsplan.md",
-    "Wendbaar en Weerbaar.md",
-    "Wicked Problem.md",
-    "Agile Mindset.md",
-    "Complexity.md",
-    "Curriculaire spinnenweb.md"
+    "Professionals voor morgen.md",
+    "Persoonsvorming.md",
+    "Leven Lang Ontwikkelen.md",
+    "Docentprofessionalisering.md",
+    "Digitale Transformatie.md",
+    "Praktijkgericht Onderzoek.md"
   ]
 }

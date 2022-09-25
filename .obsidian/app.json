@@ -1,6 +1,6 @@
 {
   "showInlineTitle": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "foldHeading": true,
   "foldIndent": true,
   "attachmentFolderPath": "Files",
@@ -14,5 +14,11 @@
     "Project/"
   ],
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
