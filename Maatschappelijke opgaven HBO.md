@@ -13,4 +13,4 @@ De strategische agenda van de Vereniging Hogescholen 2019-2023 [[Professionals_v
 Hogescholen hebben daarom niet alleen een belangrijke rol bij het vormgeven van de wereld van morgen door het voorbereiden van jongeren op hun toekomstige loopbaan in een continu veranderende arbeidsmarkt, maar *nadrukkelijk ook door het om- of bijscholen van professionals*. Daarnaast draagt het [[praktijkgericht onderzoek]] van hogescholen bij aan versterking van de beroepspraktijk.
 
 ---
-Bron: Berenschot i.o. VH: [[Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf|Meta analyse maatschappelijke opgaven relevant voor het hbo - 2021]]
+Bron: Berenschot i.o. [[Vereniging Hogescholen|VH]]: [[Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf|Meta analyse maatschappelijke opgaven relevant voor het hbo - 2021]]
