@@ -136,17 +136,52 @@
     "direction": "horizontal",
     "width": 271.5
   },
+  "floating": {
+    "id": "be9dbfc707ebc7cd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "73a7036b82a4dba6",
+        "type": "window",
+        "children": [
+          {
+            "id": "66e970164ba1797f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "15b1d30f019f44d4",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1,
+        "y": 0,
+        "width": 1144,
+        "height": 929,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
+    "Digital Excellence.md",
+    "Maatschappelijke opgaven HBO.md",
+    "Professionals voor morgen.md",
+    "Emancipatiefunctie HBO.md",
+    "Persoonsvorming.md",
+    "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
     "conflict-files-obsidian-git.md",
     "Project/DeX advies 2023/000 Advies.md",
     "Project/DeX advies 2023/Aanleiding.md",
-    "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
-    "File/Wicked-problems-flower.png",
-    "File/IA Brochure Fontys For Society Strategie 2025_200181_IA.pdf",
-    "File/Meta-analyse_maatschappelijke_opgaven_relevant_voor_het_hbo.pdf",
-    "File/cynefin-framework.png",
-    "File/curriculair_spinnenweb_ned_v1.jpg",
-    "File/220825 Fontys Workshop Slides.pdf"
+    "File/Wicked-problems-flower.png"
   ]
 }

@@ -9,7 +9,7 @@ Speerpunten advies 2023
 - [[Agile Mindset]]
 - [[Open Collab]]
 
-[[Leven Lang Ontwikkelen]]
+[[Digitale Transformatie]]
 
 ## Documents
 [[IA Brochure Fontys For Society Strategie 2025_200181_IA.pdf|Fonys Strategie]]

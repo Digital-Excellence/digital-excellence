@@ -9,12 +9,12 @@ Strategische agenda 2019-2023 van de [[Vereniging Hogescholen]].
 ## Key points
 
 ### Ieder talent verzilveren
-
-Studiesucces.
+Met het centraal stellen van studentsucces geven hogescholen uitdrukking aan het belang van de bredere [[persoonsvorming]] van studenten, die naast de kwalificatie voor een beroep wezenlijk onderdeel uitmaakt van hun voorbereiding op de toekomst.
 
 ### Inspelen op de arbeidsmarkt
+Hogescholen nemen hun verantwoordelijkheid om goed in te spelen op ontwikkelingen op de (inter)nationale arbeidsmarkt (op korte- en lange termijn), juist ook om de [[Emancipatiefunctie HBO|emancipatiefunctie]] van het hoger beroepsonderwijs te borgen, daarbij rekening houdend met de keuzevrijheid van studenten. 
 
-Emancipatiefunctie HO.
+Emancipatiefunctie HO. [[Leven Lang Ontwikkelen]]. Flexibilisering.
 
 ### Werken aan maatschappelijke vraagstukken
 
