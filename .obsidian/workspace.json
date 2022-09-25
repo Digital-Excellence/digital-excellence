@@ -11,8 +11,12 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Professionals voor morgen.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Professionals voor morgen.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Professionals voor morgen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Professionals voor morgen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -173,15 +181,15 @@
   },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
-    "Digital Excellence.md",
     "Maatschappelijke opgaven HBO.md",
     "Professionals voor morgen.md",
+    "Praktijkgericht Onderzoek.md",
+    "Kenniscentrum.md",
+    "Digital Excellence.md",
     "Emancipatiefunctie HBO.md",
     "Persoonsvorming.md",
     "File/Professionals_voor_morgen_-_strategische_agenda_Vereniging_Hogescholen_2019-2023.pdf",
     "conflict-files-obsidian-git.md",
-    "Project/DeX advies 2023/000 Advies.md",
-    "Project/DeX advies 2023/Aanleiding.md",
-    "File/Wicked-problems-flower.png"
+    "Project/DeX advies 2023/000 Advies.md"
   ]
 }
