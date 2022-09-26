@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emancipatiefunctie HBO.md",
+                "file": "Agile Mindset.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emancipatiefunctie HBO.md"
+                "file": "Agile Mindset.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emancipatiefunctie HBO.md",
+                "file": "Agile Mindset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emancipatiefunctie HBO.md",
+                "file": "Agile Mindset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -146,15 +146,15 @@
   },
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
+    "File/De architectuur van het leerlandschap.pdf",
+    "Professionals voor morgen.md",
+    "Digital Excellence.md",
+    "People/Vereniging Hogescholen.md",
+    "Cynefin Framework.md",
+    "Complexity.md",
     "Curriculaire Spinnenweb.md",
     "Agile Mindset.md",
-    "Complexity.md",
     "Emancipatiefunctie HBO.md",
-    "Professionals voor morgen.md",
-    "Sustainable Development Goals.md",
-    "Digitale Transformatie.md",
-    "Docentprofessionalisering.md",
-    "Leven Lang Ontwikkelen.md",
-    "Persoonsvorming.md"
+    "Maatschappelijke opgaven HBO.md"
   ]
 }
