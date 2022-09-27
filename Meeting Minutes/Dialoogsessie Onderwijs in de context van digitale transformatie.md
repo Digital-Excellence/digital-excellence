@@ -33,6 +33,6 @@ Rolf en Annemarie?
 ### Ontwerpkader onderwijsontwerp
 In de context van de [[digitale transformatie]]
 
-- [[Curriculaire spinnenweb]] model Van den Akker
+- [[Curriculaire Spinnenweb]] model Van den Akker
 - Transitiepaden
 - 
