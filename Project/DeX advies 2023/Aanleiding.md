@@ -5,8 +5,8 @@ Aliases: {}
 # Dex Advies Sectie Aanleiding
 
 - Strategische visie [[Vereniging Hogescholen]], doorvertaald in
-- strategische visie Fontys Hogeschool, doorvertaald in
-- strategische visie FHICT
+- strategische visie [[Fontys For Society Strategie 2025]], doorvertaald in
+- strategische visie FHICT ([[narrative FHICT.pdf]])
 
 ## Key Points
 
@@ -14,5 +14,5 @@ Aliases: {}
 
 ## Aanleiding
 
-
+Yada yada #todo
 
