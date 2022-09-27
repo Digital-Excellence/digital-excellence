@@ -3,6 +3,7 @@ Alias: {Buildung}
 ---
 
 # Persoonsvorming en buildung
+[[Onzekerheidsvaardigheden]]
 
 Persoonsvorming werd in Nederland sinds het midden van de negentiende eeuw, expliciet
 gedacht als brede, algemene vorming. Ook zulke bildung is in essentie natuurlijk socialiserend –
