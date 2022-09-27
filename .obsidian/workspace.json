@@ -11,8 +11,12 @@
             "id": "5d8a1c90f0c99184",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Versnellingsplan.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Versnellingsplan.md"
+              }
             }
           },
           {
@@ -101,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Versnellingsplan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Versnellingsplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
@@ -139,14 +147,14 @@
   "active": "5d8a1c90f0c99184",
   "lastOpenFiles": [
     "Digital Excellence.md",
+    "File/Infographic-voorbeelden-online-onderwijs-in-praktijkvaardigheden.pdf",
+    "Versnellingsplan.md",
+    "Sustainable Development Goals.md",
     "File/De architectuur van het leerlandschap.pdf",
     "Agile Mindset.md",
     "File/global-goals.png",
     "Professionals voor morgen.md",
     "People/Vereniging Hogescholen.md",
-    "Cynefin Framework.md",
-    "Complexity.md",
-    "Curriculaire Spinnenweb.md",
-    "Emancipatiefunctie HBO.md"
+    "Cynefin Framework.md"
   ]
 }

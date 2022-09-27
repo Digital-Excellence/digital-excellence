@@ -20,15 +20,28 @@ De zone [Versterken van digitale Human Capital](https://www.versnellingsplan.nl/
 ### Koersteam
 
 ### Docentprofessionalisering
+De docent is het startpunt van onderwijsinnovatie. Docenten zijn continu bezig met het verbeteren van hun onderzoek en hun onderzoekslijn. Voor hun onderwijs is dat nog lang niet vanzelfsprekend, zeker als het gaat om de inzet van ICT om het onderwijs te verbeteren. Het optimaal benutten van de mogelijkheden van ICT in het onderwijs vraagt nieuwe kennis en vaardigheden van de belangrijkste groep die de kwaliteit van het onderwijs bepaalt. Daarvoor moet docentprofessionalisering zijn ingebed in alle lagen van de organisatie, van HR tot management.
+
+Uitgewerkt in [[Raamwerk-docentcompetities.pdf]]
+
+![[Raamwerk-docentcompetenties-nieuw-768x768.png]]
 
 ### Evidence-informed
 
 ### Flexibilisering
 
+
 ### Digitale leermaterialen
 
-### Werkgroepen
+## Werkgroepen
 
-- Toetsen op afstand
-- Praktijkvaardigheden
-- EdTech
+### Toetsen op afstand
+
+### Praktijkvaardigheden
+Technologische toepassingen zoals video en VR (virtual reality) kunnen vaardighedenonderwijs nog effectiever, efficiënter en flexibeler maken. Denk hierbij aan een realistische leeromgeving waar iedere student onbeperkt kan oefenen. Geautomatiseerde feedback van de docent en peerfeedback geeft de docent meer ruimte voor het beantwoorden van gecompliceerde vraagstukken en de studenten krijgen meer tijd om te oefenen.
+
+![[infographic-online-onderwijs-vaardigheden.png]]
+
+[[Infographic-voorbeelden-online-onderwijs-in-praktijkvaardigheden.pdf]]
+
+### EdTech
