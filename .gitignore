@@ -7,9 +7,11 @@
 # Exclude plugins
 .obsidian/plugins/*
 
-
 # This file is used to keep track of last auto backup/pull
 .obsidian-git-data
+
+# No taking out the trash
+.trash/
 
 # Exclude Untitled Notes
 Untitled*
@@ -17,5 +19,4 @@ Untitled*
 null*
 
 # Add below lines to exclude OS settings and caches
-.trash/
 .DS_Store
