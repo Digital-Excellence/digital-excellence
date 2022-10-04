@@ -5,6 +5,7 @@ Aliases: {DEX}
 # Digital Excellence
 
 [Ambitieplan FHICT - Digital Excellence](https://www.ambitieplanfontysict.nl/ontwikkelthemas/digital-excellence/)
+Projectleider [[Merel Veracx]]
 
 Technologie is alomtegenwoordig en technologie wordt een steeds groter deel van ons leven. ICT speelt hierin een cruciale rol, als verbinder van hardware-delen, als datacollector en –analysator en als interface tussen mens en machine.
 Proeftuin
