@@ -2,6 +2,9 @@
 
 **FHICT Ambitiethema**</br>
 Projectleider Merel Veracx
+Latest standup 20221004 [here](https://github.com/leonvanbokhorst/digital-excellence/blob/6855514c4f73c39d6dec8fd869b5e39699c4a1fa/Project/DeX%20advies%202023/Meetings/Standup%2020221004.md)
+
+---
 
 Technologie is alomtegenwoordig en technologie wordt een steeds groter deel van ons leven. ICT speelt hierin een cruciale rol, als verbinder van hardware-delen, als datacollector en –analysator en als interface tussen mens en machine.
 
