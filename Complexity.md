@@ -3,6 +3,6 @@ Aliases: {}
 ---
 
 # Complexity
-#concept
+#concept #todo
 
 [[Cynefin Framework]]

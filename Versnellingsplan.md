@@ -8,7 +8,7 @@ Informatietechnologie dringt steeds sneller en dieper door in de maatschappij. D
 
 Er is alle reden om in Nederland fors in te zetten op de benutting van technologie om zo onderwijsinnovatie te versnellen in het hoger onderwijs. Nederland is een compact, hoogontwikkeld en goed georganiseerd land met uitstekende fysieke en digitale infrastructuren. Deze bijzondere combinatie van eigenschappen geeft ons land de unieke kans om wereldwijd voorop te lopen in onderwijsinnovatie.
 
-https://www.versnellingsplan.nl/
+Site: [Versnellingsplan](https://www.versnellingsplan.nl/)
 
 ## Zones
 

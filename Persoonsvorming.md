@@ -2,7 +2,7 @@
 Alias: {Buildung}
 ---
 
-# Persoonsvorming en buildung
+# Persoonsvorming / buildung
 [[Onzekerheidsvaardigheden]]
 
 Persoonsvorming werd in Nederland sinds het midden van de negentiende eeuw, expliciet
