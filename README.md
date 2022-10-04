@@ -1,8 +1,8 @@
 # [Digital Excellence](https://www.ambitieplanfontysict.nl/ontwikkelthemas/digital-excellence/)</br>
 
 **FHICT Ambitiethema**</br>
-Projectleider Merel Veracx
-Latest standup 20221004 [here](https://github.com/leonvanbokhorst/digital-excellence/blob/6855514c4f73c39d6dec8fd869b5e39699c4a1fa/Project/DeX%20advies%202023/Meetings/Standup%2020221004.md)
+Projectleider Merel Veracx</br>
+[Latest standup 20221004](https://github.com/leonvanbokhorst/digital-excellence/blob/6855514c4f73c39d6dec8fd869b5e39699c4a1fa/Project/DeX%20advies%202023/Meetings/Standup%2020221004.md)
 
 ---
 
