@@ -1,13 +1,16 @@
 # Onderwijs in de context van digitale transformatie
+#todo
 
 2022-09-21: Dialoogsessie op initiatief van de zone [[Versnellingsplan#Human capital|Human Capital]] van het [[Versnellingsplan]]. 
+
+[[Onderwijs-in-de-context-van-digitale-transformatie.pdf]]
 
 >Centrale vragen:
 >- Hoe geef je de [[digitale transformatie]] structureel een verantwoorde plaats in het onderwijs?
 >- Hoe bereiden we studenten goed voor deze context?
 
 Aanwezigen:
-- [[Rolf van Haaren]]
+- [[People/Rolf van Haaren]]
 - [[Annemarie van de Broek ]](sessie leider)
 - Stefan Groenedal
 - Koen Janmaat - Zone human capital
@@ -35,4 +38,3 @@ In de context van de [[digitale transformatie]]
 
 - [[Curriculaire Spinnenweb]] model Van den Akker
 - Transitiepaden
-- 
